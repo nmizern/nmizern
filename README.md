@@ -6,8 +6,8 @@ Backend Golang developer with over 2.5 years of experience, Electrical Engineeri
 
 **Software Engineer (Golang) @ RedCore Group** *(Nov 2025 – Present)*
 Building an internal multi-regional payment service
-- Implemented and maintained 30+ payment methods
-- Developed 4 full-fledged integrations with payment providers
+- Implemented and maintained 50+ payment methods
+- Developed 6 full-fledged integrations with payment providers
 - Optimized request handling mechanisms, accelerating the development and integration process by ~18%
 
 **Golang Developer @ Innowise Group** *(Sep 2023 – Jun 2025)*
